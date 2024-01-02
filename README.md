@@ -1,1 +1,3 @@
-<img width="100px" src="https://avatars.githubusercontent.com/u/154270760" align="center" alt="GitHub Readme Stats" />
+i'm in stack development debt
+
+![jamesrahhh's languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jamesrahhh&layout=compact)
