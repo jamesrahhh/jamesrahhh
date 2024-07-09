@@ -1,5 +1,3 @@
-i like to call myself a "proficient" developer
-
 > [!IMPORTANT]\
 > i use arch btw
 
