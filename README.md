@@ -2,10 +2,18 @@
   <img width=1000 src="https://i.redd.it/xw9x6p1avbe91.png" align="center" alt="by u/CocoNotShell" />
 </p>
 
-## Languages
-[![Languages](https://skillicons.dev/icons?i=flutter,dart,c,cpp&perline=5)](https://skillicons.dev)
-## Skills
-[![Skills](https://skillicons.dev/icons?i=arch,linux,neovim&perline=5)](https://skillicons.dev)
+<p align='center'>
+ <a>
+    <img alt="jamesrahhh's Profile Views" src="https://komarev.com/ghpvc/?username=jamesrahhh&style=for-the-badge" />
+  </a>&nbsp;&nbsp;
+  <a>
+  <img alt="jamesrahhh's Total Stars" src="https://img.shields.io/github/stars/jamesrahhh?style=for-the-badge&color=darkcyan" />
+</a>
+</p>
+
+***
+
+[![Languages](https://skillicons.dev/icons?i=c,cpp,dart,py,java,dotnet,flutter,firebase&theme=light)](https://skillicons.dev)
 
 > [!IMPORTANT]\
 > i use arch btw
