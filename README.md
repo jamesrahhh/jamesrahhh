@@ -13,11 +13,6 @@
 
 ***
 
-[![Languages](https://skillicons.dev/icons?i=c,cpp,dart,py,java,dotnet,flutter,firebase&theme=light)](https://skillicons.dev)
-
-> [!IMPORTANT]\
-> i use arch btw
-
 <p align="center">
  <img src="https://github-readme-stats.vercel.app/api?username=jamesrahhh&show_icons=true&theme=transparent&hide_border=true&title_color=ffffff&text_color=ffffff&icon_color=ffffff" align="center" alt="jamesrahhh's GitHub stats" />
 </p>
