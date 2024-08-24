@@ -1,5 +1,5 @@
 <p align="center">
-  <img width=1000 src="https://i.redd.it/xw9x6p1avbe91.png" align="center" title="by u/CocoNotShell" />
+  <img width=1000 src="IMG_8590.JPG" align="center" title="小田原城で撮った :)" />
 </p>
 
 <p align='center'>
